@@ -1,2 +1,2 @@
 # kensored
-Follow Saudi Arabia brothers.
+Follow up on the latest banned words by our lord & dictator Kalcor!
