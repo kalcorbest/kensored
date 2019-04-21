@@ -1,10 +1,28 @@
 {
     "words": {
         "Y_Less" : {
-            "reason" : "Kalcor had a bit of a temper tantrum."
+            "reason" : "Kalcor had a bit of a temper tantrum.",
+            "alternatives" : [
+                "y_less",
+                "y_loss"
+            ]
+        },
+        "Google" : {
+            "reason" : "Got butthurt.",
+            "alternatives" : [
+                "g0ogle",
+                "go0gle",
+                "gorgoyle"
+            ]
         },
         "YouTube" : {
-            "reason" : "Fuck them, right?"
+            "reason" : "Owned by Google",
+            "alternatives" : [
+                "You(Them)Tube",
+                "Y0uTube",
+                "Y0uTub3",
+                "utube"
+            ]
         }
     }
 }
