@@ -3,7 +3,7 @@
         "Y_Less" : {
             "reason" : "Kalcor had a bit of a temper tantrum.",
             "alternatives" : [
-                "y_less",
+                "yless",
                 "y_loss"
             ]
         },
@@ -22,6 +22,15 @@
                 "Y0uTube",
                 "Y0uTub3",
                 "utube"
+            ]
+        },
+        "ZiGGi" : {
+            "reason" : "pwned",
+            "alternatives" : [
+                "z1gg1",
+                "ZiGG",
+                "Z1GG",
+                "z1gg"
             ]
         }
     }
