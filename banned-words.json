@@ -1,18 +1,45 @@
 {
     "words": {
-        "Y_Less" : {
-            "reason" : "Kalcor had a bit of a temper tantrum.",
+        "Facebook": {
+            "reason": "Left wing biased",
             "alternatives" : [
-                "yless",
-                "y_loss"
+                "F@cebook",
+                "Faceb00k",
+                "Faceb0ok",
+                "Facebo0k"
             ]
         },
         "Google" : {
-            "reason" : "Got butthurt.",
+            "reason" : "Got butthurt",
             "alternatives" : [
                 "g0ogle",
                 "go0gle",
                 "gorgoyle"
+            ]
+        },
+        "Twitter": {
+            "reason": "Left wing biased",
+            "alternatives" : [
+                "Tweetter",
+                "Twiitter"
+            ]
+        },
+        "Y_Less" : {
+            "reason" : "Mutiny",
+            "alternatives" : [
+                "y_lad",
+                "y_lass",
+                "y_loss",
+                "y_man"
+            ]
+        },
+        "YLess" : {
+            "reason" : "Mutiny",
+            "alternatives" : [
+                "y_lad",
+                "y_lass",
+                "y_loss",
+                "y_man"
             ]
         },
         "YouTube" : {
@@ -24,13 +51,45 @@
                 "utube"
             ]
         },
-        "ZiGGi" : {
-            "reason" : "pwned",
+        "burgershot.gg": {
+            "reason": "Might be associated with open.mp",
             "alternatives" : [
-                "z1gg1",
-                "ZiGG",
-                "Z1GG",
-                "z1gg"
+                "burgershot",
+                "burgershotgg"
+            ]
+        },
+        "open.mp": {
+            "reason": "Mutiny",
+            "alternatives" : [
+                "omp",
+                "openmultiplayer"
+            ]
+        },
+        "openmp": {
+            "reason": "Mutiny",
+            "alternatives" : [
+                "omp",
+                "openmultiplayer"
+            ]
+        },
+        "s0beit": {
+            "reason": "Cheating tool",
+            "alternatives" : [
+                "s?beit",
+                "s00beit",
+                "s0obeit",
+                "so0beit",
+                "soobeit"
+            ]
+        },
+        "sobeit": {
+            "reason": "Cheating tool",
+            "alternatives" : [
+                "s?beit",
+                "s00beit",
+                "s0obeit",
+                "so0beit",
+                "soobeit"
             ]
         }
     }
